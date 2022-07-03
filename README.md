@@ -6,7 +6,7 @@
 ### Results of Shadow Detection
 [Results on the ISTD/SBU/UCF dataset](https://drive.google.com/drive/folders/1KXfqMA--wREfslMrfg-g29Xmmtfc1obG?usp=sharing)
 ### Pre-trained weights of Shadow Detection
-[Results on the ISTD/SBU dataset](https://drive.google.com/drive/folders/1S-_WHSScacjM_ZfB6lX6e0VcPjpqXsaW?usp=sharing)
+[Pre-trained weights on the ISTD/SBU dataset](https://drive.google.com/drive/folders/1S-_WHSScacjM_ZfB6lX6e0VcPjpqXsaW?usp=sharing)
 
 
 ### Citation
