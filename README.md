@@ -8,6 +8,11 @@
 ### Pre-trained weights of Shadow Detection
 [Pre-trained weights on the ISTD/SBU dataset](https://drive.google.com/drive/folders/1S-_WHSScacjM_ZfB6lX6e0VcPjpqXsaW?usp=sharing)
 
+Pre-step:
+
+ Pre-trained model of efficientnet-b3:  ''SDCM/codes/efficientB3/efficientnet-b3-5fb5a3c3.pth''; 
+ 
+ Modify the loaded-path of efficientnet-b3 model in the file: ''SDCM/codes/efficientnet_pytorch/utils.py'' 
 
 ### Citation
 If this work is helpful to you, please cite it.
