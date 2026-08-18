@@ -16,5 +16,9 @@ Pre-step:
 
 ### Citation
 If this work is helpful to you, please cite it.
+
+### License
+This project is licensed under the Apache License 2.0.
+
 ### Contact Information
 If you have any question, please email to me [zyr@mail.ustc.edu.cn](zyr@mail.ustc.edu.cn).
